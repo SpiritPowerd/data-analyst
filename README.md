@@ -1,6 +1,6 @@
 ## Список проектов
 
-Данные проекты были выполнены в ходе обучения.
+Проекты были выполнены в ходе обучения.
 
 [nbviewer](https://nbviewer.org/github/SpiritPowerd/data-analyst/tree/main/)
 
